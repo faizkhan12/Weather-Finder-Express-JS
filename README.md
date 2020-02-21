@@ -40,3 +40,5 @@ API call - http://api.openweathermap.org/data/2.5/weather where you have to crea
 5. Before connecting with the PORT first write the command line ```'node filename'.js in your CL(index.js in this case)``` then connect it to the PORT 3000 in your web browser.
 
 # Results
+<img src = "Screenshot (129).png">
+
